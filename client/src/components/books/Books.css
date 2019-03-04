@@ -1,0 +1,16 @@
+.container__card {
+    margin: 3rem auto;
+}
+
+.card__title {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.card__author {
+    font-size: 1.8rem;
+}
+
+.card__publisher {
+    font-size: 1.8rem;
+}
